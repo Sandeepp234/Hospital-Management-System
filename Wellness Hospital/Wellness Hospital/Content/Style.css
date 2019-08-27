@@ -1,0 +1,41 @@
+﻿body {
+    
+}
+
+table{
+    padding:10px;
+}
+.auto-style1 td {
+    padding: 10px;
+}
+
+#footer{
+    bottom:0px;
+    position:relative;
+    height:100px;
+    width:100%;
+    background-color:black;
+}
+
+* html #footer{
+    position:static;
+    top:expression((-(footer.offsetHeight)+(documentElement.clientHeight ? doumentElement.clientheight : document.body.clientHeight)+(ignoreMe=document.documentElement.scrollTop ? document.Element.scrollTop :document.body.scrollTop))+'px');
+}
+.text {
+     color:black;
+     font-size:18px;
+     
+   
+}
+#second{
+    color:aqua;
+    width:20px;
+    height:100px;
+}
+.txtbox {
+    
+    border: 10px;
+    border-radius: 10px;
+    height:30px;
+
+}

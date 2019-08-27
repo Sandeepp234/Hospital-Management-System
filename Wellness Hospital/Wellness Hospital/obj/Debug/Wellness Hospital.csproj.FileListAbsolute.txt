@@ -1,0 +1,86 @@
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\ApplicationInsights.config
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Wellness Hospital.dll.config
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Wellness Hospital.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Wellness Hospital.pdb
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\csc.exe
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\csc.exe.config
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\csc.rsp
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\csi.exe
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\csi.exe.config
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\csi.rsp
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.AppContext.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Console.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.IO.Compression.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Security.Claims.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.ValueTuple.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\vbc.exe
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\vbc.exe.config
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\vbc.rsp
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\VBCSCompiler.exe
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Antlr3.Runtime.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.Web.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Newtonsoft.Json.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\System.Web.Optimization.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\WebGrease.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\System.Web.Optimization.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Antlr3.Runtime.pdb
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Newtonsoft.Json.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\bin\Microsoft.AI.Web.xml
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\obj\Debug\Wellness Hospital.csprojResolveAssemblyReference.cache
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\obj\Debug\Wellness Hospital.csproj.CoreCompileInputs.cache
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\obj\Debug\Wellness Hospital.csproj.CopyComplete
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\obj\Debug\Wellness Hospital.dll
+C:\Users\SANDIP\source\repos\Wellness Hospital\Wellness Hospital\obj\Debug\Wellness Hospital.pdb

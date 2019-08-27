@@ -1,0 +1,100 @@
+﻿<%@ Page Title="Patient Test" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Patient Test Result.aspx.cs" Inherits="Wellness_Hospital.Patient_Test_Result" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+     <div class="main_container" style=" width:400px; float:left;">
+     <h2 style="text-align:center; font-family:Aharoni; font-style:oblique; font-size:30px"> Patient Test Results Details </h2>
+     
+              <div class="container-body col-md-12" style="left: -5px; top: 5px"  >
+          <div class="col-md-6 col-lg-6 col-sm-6">
+   
+            <table class="auto-style1">
+
+                 <tr>
+                    <td style="width: 139px">
+                        <asp:Label ID="lbPTid" runat="server" Text="P.T.R Id" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 145px">
+                        <asp:TextBox ID="txtPTid" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px">
+                        <asp:Label ID="lbPTpatientid" runat="server" Text="Patient Id" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 145px">
+                        <asp:TextBox ID="txtPTpatientid" runat="server" AutoPostBack="true" CssClass="txtbox" OnTextChanged="txtPTpatientid_TextChanged"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px">
+                        <asp:Label ID="lbPTpatientname" runat="server" Text="Patient Name" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 145px">
+                        <asp:TextBox ID="txtPTpatientname" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px">
+                        <asp:Label ID="lbPTtestid" runat="server" Text="Test Id" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 145px">
+                        <asp:TextBox ID="txtPTtestid" runat="server" AutoPostBack ="true" CssClass="txtbox" OnTextChanged="txtPTtestid_TextChanged"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px; height: 54px;">
+                        <asp:Label ID="lbPTtestname" runat="server" Text="Test Name" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="height: 54px; width: 145px">
+                        <asp:TextBox ID="txtPTestname" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px; height: 53px;">
+                        <asp:Label ID="lbPTremark" runat="server" Text="Remark" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="height: 53px; width: 145px">
+                        <asp:TextBox ID="txtPTremark" runat="server" CssClass="txtbox" Height="50px" TextMode="MultiLine"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px; height: 48px;">
+                        <asp:Button ID="btnPTsubmit" runat="server" Text="Submit" CssClass="btn btn-warning" OnClick="btnPTsubmit_Click"/>
+                    </td>
+                    <td style="width: 145px; height: 48px">
+                        <asp:Button ID="btnPTcancle" runat="server" Text="Cancel" CssClass="btn btn-primary" OnClick="btnPPcancle_Click"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px">
+                        <asp:Button ID="btnPTupdate" runat="server" Text="Update" CssClass="btn btn-primary" OnClick="btnPTupdate_Click"/>
+                    </td>
+                    <td style="width: 145px">
+                        <asp:Button ID="btnPTdelete" runat="server" Text="Delete" CssClass="btn btn-primary" OnClick="btnPTdelete_Click"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 139px">
+                        <asp:Button ID="btnPTsearch1" runat="server" Text="Search" CssClass="btn btn-primary" OnClick="btnPTsearch1_Click"/>
+                    </td>
+                    <td style="width: 145px">
+                        <asp:TextBox ID="txtPTestsearch1" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                  </table>
+                                     </div>
+                     </div>
+            </div>
+
+    <!--data grid view-->
+<div class="col-lg-6 col-md-6" style="  left: -2px; top: 9px;">
+        <p>
+            <asp:GridView ID="GridViewPatientTest" runat="server" AutoGenerateDeleteButton="True" AutoGenerateEditButton="True" AutoGenerateSelectButton="True" OnRowDeleting="GridViewPatientTest_RowDeleting" OnRowEditing="GridViewPatientTest_RowEditing" OnSelectedIndexChanged="GridViewPatientTest_SelectedIndexChanged">
+            </asp:GridView>
+            <asp:GridView ID="GridViewSearch1" runat="server">
+            </asp:GridView>
+        </p>
+</div>
+   
+</asp:Content>
+        

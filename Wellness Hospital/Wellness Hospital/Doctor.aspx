@@ -1,0 +1,95 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeBehind="Doctor.aspx.cs" Inherits="Wellness_Hospital.Doctor" %>
+
+   <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+        <div class="main_container"style=" width:360px; float:left;" >
+        <h2 style="text-align:center; font-family:Aharoni; font-style:oblique; font-size:30px"> Doctor Details  </h2>
+      
+        
+              <div class="container-body col-md-12" style="left: -2px; top: 9px; width: 331px"  >
+          <div class="col-md-6 col-lg-6 col-sm-6" style="left: -5px; top: 5px; width: 331px;">
+             
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style2" style="width: 140px; height: 8px;">
+                        <asp:Label ID="lbDdoctorid" runat="server" Text="ID" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="height: 8px; width: 148px">
+                        <asp:TextBox ID="txtDdoctorid" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2" style="width: 140px">
+                        <asp:Label ID="lbDdoctorname" runat="server" Text="Name" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 148px">
+                        <asp:TextBox ID="txtDdoctorname" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2" style="width: 140px">
+                        <asp:Label ID="lbDdoctoraddress" runat="server" Text="Address" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 148px">
+                        <asp:TextBox ID="txtDdoctoraddress" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2" style="width: 140px">
+                        <asp:Label ID="lbDdoctoremail" runat="server" Text="Email" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 148px">
+                        <asp:TextBox ID="txtDdoctoremail" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2" style="width: 140px">
+                        <asp:Label ID="lbDdoctorcontact" runat="server" Text="Contact" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 148px">
+                        <asp:TextBox ID="txtDdoctorcontact" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2" style="width: 140px">
+                        <asp:Label ID="lbDdoctorspecialist" runat="server" Text="Specialist" CssClass="text"></asp:Label>
+                    </td>
+                    <td style="width: 148px">
+                        <asp:TextBox ID="txtDdoctorspecialist" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3" style="width: 140px">
+                        <asp:Label ID="lbDdoctorlevel" runat="server" Text="Level" CssClass="text"></asp:Label>
+                    </td>
+                    <td class="auto-style4" style="width: 148px">
+                        <asp:TextBox ID="txtDdoctorlevel" runat="server" CssClass="txtbox"></asp:TextBox>
+                    </td>
+                </tr>
+                  
+                 <tr>
+                    <td style="width: 140px"><asp:Button ID="btnDoctorsubmit" runat="server" Text="Submit" CssClass="btn btn-warning" OnClick="btnDoctorsubmit_Click"/></td>
+                    <td style="width: 148px">
+                        <asp:Button ID="btnDdoctorcancle" runat="server" Text="Cancel" CssClass="btn btn-primary" OnClick="btnDdoctorcancle_Click"/></td>
+                </tr>
+                  
+                 <tr>
+                    <td style="width: 140px">
+                        <asp:Button ID="btnDdoctorupdate" runat="server" Text="Update" CssClass="btn btn-primary" OnClick="btnDdoctorupdate_Click"/></td>
+                    <td style="width: 148px">
+                        <asp:Button ID="btnDdoctordelete" runat="server" Text="Delete" CssClass="btn btn-primary" OnClick="btnDdoctordelete_Click"/></td>
+                </tr>
+            </table>
+                                  </div>
+                     </div>
+            </div>
+
+    <!--data grid view-->
+<div class="col-lg-6 col-md-6" style="left:-4px; top:14px">
+        <p>
+            <asp:GridView ID="GridViewDoctor" runat="server" AutoGenerateDeleteButton="True" AutoGenerateEditButton="True" AutoGenerateSelectButton="True" OnRowDeleting="GridView1_RowDeleting" OnRowEditing="GridView1_RowEditing"  OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
+            </asp:GridView>
+        </p>
+</div>
+   
+
+ </asp:Content>
